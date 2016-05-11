@@ -1,0 +1,7 @@
+{
+"info version":"2.0",
+"firmware version":"HD4.02.03.00.00",
+"wifi mac":"d4d9198ef157",
+"camera type":"HERO4 Black",
+"camera serial number":"C3121125439198",
+}
